@@ -1,9 +1,177 @@
-[
-  {
-    "id": "windows11_img0",
-    "name": "Windows 11",
-    "category": "Microsoft Windows",
-    "preview": "Wallpapers/microsoft_windows11/img0.jpg",
-    "image": "Wallpapers/microsoft_windows11/img0.jpg"
-  }
+﻿[
+    {
+        "id":  "microsoft_windows11_img0",
+        "name":  "Img0",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img0.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img0.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img19",
+        "name":  "Img19",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img19.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img19.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img20",
+        "name":  "Img20",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img20.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img20.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img21",
+        "name":  "Img21",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img21.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img21.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img22",
+        "name":  "Img22",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img22.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img22.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img23",
+        "name":  "Img23",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img23.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img23.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img24",
+        "name":  "Img24",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img24.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img24.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img25",
+        "name":  "Img25",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img25.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img25.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img26",
+        "name":  "Img26",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img26.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img26.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img27",
+        "name":  "Img27",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img27.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img27.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img28",
+        "name":  "Img28",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img28.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img28.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img29",
+        "name":  "Img29",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img29.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img29.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img30",
+        "name":  "Img30",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img30.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img30.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img31",
+        "name":  "Img31",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img31.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img31.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img32",
+        "name":  "Img32",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img32.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img32.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img33",
+        "name":  "Img33",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img33.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img33.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img34",
+        "name":  "Img34",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img34.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img34.jpg"
+    },
+    {
+        "id":  "microsoft_windows11_img35",
+        "name":  "Img35",
+        "category":  "Microsoft Windows",
+        "preview":  "Previews/microsoft_windows11/img35.jpg",
+        "image":  "Wallpapers/microsoft_windows11/img35.jpg"
+    },
+    {
+        "id":  "space_galaktika_galaktika_vertushka_spiral_134777_3840x2160",
+        "name":  "Galaktika Galaktika Vertushka Spiral 134777 3840X2160",
+        "category":  "Space",
+        "preview":  "Previews/space/galaktika_galaktika_vertushka_spiral_134777_3840x2160.jpg",
+        "image":  "Wallpapers/space/galaktika_galaktika_vertushka_spiral_134777_3840x2160.jpg"
+    },
+    {
+        "id":  "space_galaktika_svechenie_spiral_142698_3840x2160",
+        "name":  "Galaktika Svechenie Spiral 142698 3840X2160",
+        "category":  "Space",
+        "preview":  "Previews/space/galaktika_svechenie_spiral_142698_3840x2160.jpg",
+        "image":  "Wallpapers/space/galaktika_svechenie_spiral_142698_3840x2160.jpg"
+    },
+    {
+        "id":  "space_planeta_galaktika_vselennaia_121293_3840x2160",
+        "name":  "Planeta Galaktika Vselennaia 121293 3840X2160",
+        "category":  "Space",
+        "preview":  "Previews/space/planeta_galaktika_vselennaia_121293_3840x2160.jpg",
+        "image":  "Wallpapers/space/planeta_galaktika_vselennaia_121293_3840x2160.jpg"
+    },
+    {
+        "id":  "space_planeta_saturn_sputnik_143820_3840x2160",
+        "name":  "Planeta Saturn Sputnik 143820 3840X2160",
+        "category":  "Space",
+        "preview":  "Previews/space/planeta_saturn_sputnik_143820_3840x2160.jpg",
+        "image":  "Wallpapers/space/planeta_saturn_sputnik_143820_3840x2160.jpg"
+    },
+    {
+        "id":  "space_planeta_sputnik_kosmos_163323_3840x2160",
+        "name":  "Planeta Sputnik Kosmos 163323 3840X2160",
+        "category":  "Space",
+        "preview":  "Previews/space/planeta_sputnik_kosmos_163323_3840x2160.jpg",
+        "image":  "Wallpapers/space/planeta_sputnik_kosmos_163323_3840x2160.jpg"
+    },
+    {
+        "id":  "space_planeta_svechenie_asteroidy_142306_3840x2160",
+        "name":  "Planeta Svechenie Asteroidy 142306 3840X2160",
+        "category":  "Space",
+        "preview":  "Previews/space/planeta_svechenie_asteroidy_142306_3840x2160.jpg",
+        "image":  "Wallpapers/space/planeta_svechenie_asteroidy_142306_3840x2160.jpg"
+    },
+    {
+        "id":  "space_zvezdnoe_nebo_mlechnyj_put_zvezdy_149198_3840x2160",
+        "name":  "Zvezdnoe Nebo Mlechnyj Put Zvezdy 149198 3840X2160",
+        "category":  "Space",
+        "preview":  "Previews/space/zvezdnoe_nebo_mlechnyj_put_zvezdy_149198_3840x2160.jpg",
+        "image":  "Wallpapers/space/zvezdnoe_nebo_mlechnyj_put_zvezdy_149198_3840x2160.jpg"
+    }
 ]
